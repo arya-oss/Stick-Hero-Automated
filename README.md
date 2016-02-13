@@ -2,9 +2,9 @@
 
 
 ### Game Description
-Flow Free is a simple yet addictive puzzle game.
+This is a Sigle Player Game.
 
-Playstore Link: [Flow Free](https://play.google.com/store/apps/details?id=com.bigduckgames.flow&hl=en)
+Playstore Link: [Stick Hero](https://play.google.com/store/apps/details?id=com.ketchapp.stickhero&hl=en)
 
 ![Playstore](/Images/stick_play.png) 
 ![Image](/Images/stick_hero.png)
@@ -14,11 +14,11 @@ Easy
 
 #### Overview
 
-Connect matching colors with pipe to create a Flow®. Pair all colors, and cover the entire board to solve each puzzle in Flow Free. But watch out, pipes will break if they cross or overlap
+Stretch the stick in order to reach and walk on the platforms. Watch out! If the stick is not long enough, you will fall down!
 
 #### Requirements
 - Computer with OpenCV-Python, [Numpy](https://github.com/numpy/numpy), ADB Tool and required drivers set up.
-- An Android Device with the ‘Stick Hero game installed on it. (Turn on the Developer options for better visualization)
+- An Android Device with the Stick Hero game installed on it. (Turn on the Developer options for better visualization)
 - USB data transfer cable.
 
 #### Block Diagram
