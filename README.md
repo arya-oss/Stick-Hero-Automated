@@ -4,7 +4,7 @@
 ### Game Description
 Flow Free is a simple yet addictive puzzle game.
 
-Playstore Link: [Flow Free]](https://play.google.com/store/apps/details?id=com.bigduckgames.flow&hl=en)
+Playstore Link: [Flow Free](https://play.google.com/store/apps/details?id=com.bigduckgames.flow&hl=en)
 
 ![Playstore](/Images/stick_play.png) 
 ![Image](/Images/stick_hero.png)
